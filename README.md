@@ -46,4 +46,4 @@ The main class ATM_Simulation includes the following methods:
 - getTransactionHistory(): Returns the transaction history as a formatted string.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
